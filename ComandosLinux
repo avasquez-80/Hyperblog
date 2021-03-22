@@ -9,7 +9,7 @@ touch para crear un archivo
 mkdir para crear una direccion
 rmdir para remover una direccion
 pwd para ver la carpeta actual
-cd -al (al viene a ser un argumento de cd)
+cd -al (al viene a ser un argumento de cd pueden haber muchos argumentos mas)
 cd TAB para llenar automaticamente el nombre del archivo
 cat para ver el contenido de un archivo
 vm para editar archivo de texto
@@ -25,4 +25,5 @@ drwxr-xr-x 3 avasquez avasquez 4096 Mar 22 18:47 .
 drwxrwxrwx 8 avasquez avasquez 4096 Mar 22 18:45 ..
 drwxr-xr-x 7 avasquez avasquez 4096 Mar 22 18:47 .git
 avasquez@DESKTOP-ROIN1DI:~/ProyectosNuevos/RoadTCode/RoadToCode/Proyecto1$
+lo de arriba fue un ejemplo
 lo demas continua en la carpeta principal RoadTCode
