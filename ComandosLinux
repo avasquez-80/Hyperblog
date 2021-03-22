@@ -1,0 +1,27 @@
+sudo apt-get update para ver que se puede actualizar
+sudo apt-get upgrade para implementar la actualizacion
+~/ para la direccion por defecto (home)
+cd mnt para ir a las carpetas de windows
+mv dirmover dirnueva para mover
+sudo apt-get install "paquete"
+git --version para ver la version de git
+touch para crear un archivo
+mkdir para crear una direccion
+rmdir para remover una direccion
+pwd para ver la carpeta actual
+cd -al (al viene a ser un argumento de cd)
+cd TAB para llenar automaticamente el nombre del archivo
+cat para ver el contenido de un archivo
+vm para editar archivo de texto
+history para ver el listado de comandos usados a la fecha
+rm para remover archivo
+comando --help (ejemplo rm --help) para ayuda de cada comando
+git-------
+git init    para crear el repositorio
+ejemplo:
+avasquez@DESKTOP-ROIN1DI:~/ProyectosNuevos/RoadTCode/RoadToCode/Proyecto1$ ls -al
+total 12
+drwxr-xr-x 3 avasquez avasquez 4096 Mar 22 18:47 .
+drwxrwxrwx 8 avasquez avasquez 4096 Mar 22 18:45 ..
+drwxr-xr-x 7 avasquez avasquez 4096 Mar 22 18:47 .git
+avasquez@DESKTOP-ROIN1DI:~/ProyectosNuevos/RoadTCode/RoadToCode/Proyecto1$
