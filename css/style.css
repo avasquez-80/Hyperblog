@@ -5,12 +5,23 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
-h1{
-    background-color: aquamarine;
-    border-style: groove;
-}
 p{
-    background-color: blueviolet;
+    background-color: rgb(175, 163, 187);
     text-decoration-color: blue;
     size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid rgb(170, 217, 223);
+    margin: 0 auto;
+    background-color: rgb(207, 248, 248);
+}
+
+#container h1{
+    background-color: aquamarine;
+    border-style: groove;
 }
