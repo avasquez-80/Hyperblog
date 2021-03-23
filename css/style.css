@@ -25,3 +25,9 @@ p{
     background-color: aquamarine;
     border-style: groove;
 }
+.cabecera{
+    background-color: rgb(224, 138, 138);
+    text-align: center;
+    font-style: oblique;
+    font-size: 120%;
+}
