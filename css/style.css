@@ -22,8 +22,9 @@ p{
 }
 
 #container h1{
-    background-color: aquamarine;
-    border-style: groove;
+    background-color: rgb(191, 217, 247);
+    border-style:none;
+    box-shadow: 28px 24px 20px -12px rgba(35,58,125,0.48);
 }
 .cabecera{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
